@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraqib20" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Streamlit**
 
 - 🌱 I’m currently learning **Python, Data Science & Analytics and ML**
 
