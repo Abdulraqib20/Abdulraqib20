@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdulraqib omotosho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulraqib omotosho" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulraqib omotosho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulraqib omotosho" height="30" width="40" /></a>
-<a href="https://medium.com/@abdulraqibshakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulraqibshakir" height="30" width="40" /></a>
+<a href="https://medium.com/@abdulraqibshakir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulraqibshakir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
