@@ -1,6 +1,4 @@
-<!-- ## Hi there 👋
-
-[![gitartwork-1](gitartwork.svg)](https://github.com/jasineri/gitartwork) -->
+![gitartwork](gitartwork.svg)
 
 <h1><img align="center" alt="" width="1000" height="300" src="https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=790b7611614ac06dbeb4a524d744494d67898204ec45c6ae&rid=giphy.gif&ct=g"></h1>
 <h1 align="center">Hi 👋, I'm Abdulraqib Omotosho</h1>
