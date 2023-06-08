@@ -1,8 +1,3 @@
-## Hi there 👋
-
-![gitartwork](gitartwork.svg)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 <h1><img align="center" alt="" width="1000" height="300" src="https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=790b7611614ac06dbeb4a524d744494d67898204ec45c6ae&rid=giphy.gif&ct=g"></h1>
 <h1 align="center">Hi 👋, I'm Abdulraqib Omotosho</h1>
 <h3 align="center">An aspiring ML Engineer and a Data Science enthusiast from Nigeria</h3>
