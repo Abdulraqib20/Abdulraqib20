@@ -4,11 +4,11 @@ author: jasineri
 inputs:
   user_name:
     description: Username
-    default: jasineri
+    default: ABDULRAQIB
     required: true
   text:
     description: Text on contribution graph
-    default: JASINERI
+    default: ABDULRAQIB
     required: true
   svg_file_name:
     description: 'SVG file name (optional), default: gitartwork.svg'
