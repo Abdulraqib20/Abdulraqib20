@@ -1,22 +1,18 @@
-name: gitartwork on contribution graph
-description: gitartwork on users contribution graph
-author: ABDULRAQIB
-inputs:
-  user_name:
-    description: Username
-    default: ABDULRAQIB
-    required: true
-  text:
-    description: Text on contribution graph
-    default: ABDULRAQIB
-    required: true
-  svg_file_name:
-    description: 'SVG file name (optional), default: gitartwork.svg'
-    default: gitartwork.svg
-    required: false
-runs:
-  using: node16
-  main: dist/index.js
-branding:
-  icon: aperture
-  color: blue
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: ABDULRAQIB/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: ABDULRAQIB
+            # Text on contribution graph 
+            text: ABDULRAQIB
+       - uses: ABDULRAQIB/simple-push-action@v1
