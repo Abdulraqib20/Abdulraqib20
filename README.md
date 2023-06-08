@@ -1,8 +1,8 @@
-# My GitHub Profile👨‍💻🚀🌍
+# Welcome to my GitHub Profile👨‍💻🚀🌍
 
 ![gitartwork](gitartwork.svg)
 
-<h1><img align="center" alt="" width="1000" height="300" src="https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=790b7611614ac06dbeb4a524d744494d67898204ec45c6ae&rid=giphy.gif&ct=g"></h1>
+<h1><img align="center" alt="" width="1000" height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></h1>
 <h1 align="center">Hi 👋, I'm Abdulraqib Omotosho</h1>
 <h3 align="center">An aspiring ML Engineer and a Data Science enthusiast from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
