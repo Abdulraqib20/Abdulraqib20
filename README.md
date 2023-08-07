@@ -1,14 +1,4 @@
 # Welcome to my GitHub Profile<span style="animation: slideIn 1s ease infinite; display: inline-block;">👨‍💻🚀🌍</span>
-<style>
-  @keyframes slideIn {
-    0% {
-      transform: translateY(-100%);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-</style>
 
 ![gitartwork](gitartwork.svg)
 
