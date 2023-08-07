@@ -1,29 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    @keyframes slideIn {
-      0% {
-        transform: translateY(-100%);
-      }
-      100% {
-        transform: translateY(0);
-      }
+# Welcome to my GitHub Profile<span style="animation: slideIn 1s ease infinite; display: inline-block;">👨‍💻🚀🌍</span>
+<style>
+  @keyframes slideIn {
+    0% {
+      transform: translateY(-100%);
     }
-
-    .headline {
-      font-size: 48px;
-      font-weight: bold;
-      text-align: center;
-      margin-top: 50px;
-      animation: slideIn 1s ease;
+    100% {
+      transform: translateY(0);
     }
-  </style>
-</head>
-<body>
-  <h1 class="headline">Welcome to my GitHub Profile<span style="animation: slideIn 1s ease infinite; display: inline-block;">👨‍💻🚀🌍</span></h1>
-</body>
-</html>
+  }
+</style>
 
 ![gitartwork](gitartwork.svg)
 
