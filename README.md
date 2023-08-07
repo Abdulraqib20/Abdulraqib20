@@ -170,10 +170,6 @@
   <br/>
   <img alt="Raqib's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulraqib20&theme=algolia" />
 </p>
-<p align="center">
-  <b>Total PRs:</b> 50<br/>
-  <b>Total Issues:</b> 25<br/>
-</p>
 <br/>
 :trophy: Git Profile Trophies
 
