@@ -32,7 +32,6 @@
 
 ## 🛠️ My SKills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-📊 Data Science and Machine Learning
 <p align="left"> 
   &emsp; 
   <a href="https://numpy.org/" target="_blank"> 
@@ -59,8 +58,16 @@
    <img alt="TensorFlow Logo" src="https://www.tensorflow.org/images/tf_logo_social.png" width="40" height="40">
   </a>
   &emsp;
-  <a href="https://www.python.org/" target="_blank"> 
-   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
+  <a href="https://www.nltk.org/" target="_blank"> 
+   <img alt="NLTK Logo" src="https://www.nltk.org/images/nltk.png" width="40" height="40">
+  </a>
+  &emsp;
+  <a href="https://huggingface.co/transformers/" target="_blank"> 
+   <img alt="Transformers Logo" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40">
+  </a>
+  &emsp;
+  <a href="https://keras.io/" target="_blank"> 
+   <img alt="Keras Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="40" height="40">
   </a>
 </p>
 
@@ -157,39 +164,6 @@
   </a>
 </p>
 
-### 👉 Miscellaneous
-<p align="left">
-  &emsp;
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://en.wikipedia.org/wiki/Probability" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/2097/2097747.svg" alt="Probability" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://en.wikipedia.org/wiki/Mathematics" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/159/159741.svg" alt="Mathematics" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/1702/1702932.svg" alt="Statistics" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/25/25611.svg" alt="Command Line Interface" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" alt="Microsoft PowerPoint" width="40" height="40"/>
-  </a>
-  &emsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="Microsoft Word" width="40" height="40"/>
-  </a>
-</p> 
-<br>
-
 ## 📈 GitHub Stats
 <p align="center">
   <img alt="Raqib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulraqib20&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
@@ -206,3 +180,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdulraqib20&theme=algolia" alt="Abdulraqib20's Trophies" />
 </p>
+
+-----
+Edited By: [raqibcodes](https://github.com/Abdulraqib20)
