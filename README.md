@@ -31,7 +31,7 @@
 <a href="https://medium.com/@abdulraqibshakir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulraqibshakir" height="30" width="40" /></a>
 </p> <br>
 
-## 🛠️ Languages and Tools I Use <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 🛠️ My SKills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
  ### 👉 Data Science and Machine Learning
 <p align="left"> 
@@ -131,6 +131,10 @@
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
+   &emsp;
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"></a>
+	&emsp;	
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   </a>
 </p>
 
@@ -184,6 +188,32 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="Microsoft Word" width="40" height="40"/>
   </a>
+</p> 
+<br>
+
+## 📊 GitHub Stats
+<details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img alt="Raqib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulraqib20&show_icons=true&count_private=true&theme=algolia&hide=prs,issues,contribs" />
+  </p>
+  <p align="center">
+    <img alt="Raqib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic3sax&langs_count=6&layout=compact&theme=algolia" />
+  </p>
+  <p align="center">
+    <b>Note:</b> Top languages only indicate public code repositories and do not reflect experience or skill level.
+  </p>
+</details>
+<br/>
+:trophy: Git Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vic3sax&theme=algolia" alt="Vic3sax's Trophies" />
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/raqibcodes target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raqib" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdulraqib-omotosho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdulraqib Omotosho" height="30" width="40" /></a>
 </p>
 
 
