@@ -33,7 +33,7 @@
 
 ## 🛠️ My SKills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
- ### 👉 Data Science and Machine Learning
+ ### 📊 Data Science and Machine Learning
 <p align="left"> 
   &emsp; 
   <a href="https://numpy.org/" target="_blank"> 
@@ -77,7 +77,7 @@
   </a>
 </p>
 
-### 👉 Web Development
+### 🌐 Web Development
 <p align="left">
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -90,7 +90,7 @@
   &emsp;
 </p>
 
-### 👉 Databases
+### 🗃️ Databases
 <p align="left">
   &emsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -110,7 +110,7 @@
   </a>
 </p>
 
-### 👉 Spreadsheets (Excel and Google Sheets)
+### 📈 Spreadsheets (Excel and Google Sheets)
 <p align="left">
   &emsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
@@ -122,7 +122,7 @@
   </a>
 </p>
 
-### 👉 IDEs
+### 💻 IDEs
 <p align="left">
   &emsp;
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
@@ -138,7 +138,7 @@
   </a>
 </p>
 
-### 👉 Design Tools
+### 🎨 Design Tools
 <p align="left">
   &emsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
@@ -192,30 +192,23 @@
 <br>
 
 ## 📊 GitHub Stats
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<p align="center">
+  <img alt="Raqib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulraqib20&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
   <br/>
-  <p align="center">
-    <img alt="Raqib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulraqib20&show_icons=true&count_private=true&theme=algolia&hide=prs,issues,contribs" />
-  </p>
-  <p align="center">
-    <img alt="Raqib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic3sax&langs_count=6&layout=compact&theme=algolia" />
-  </p>
-  <p align="center">
-    <b>Note:</b> Top languages only indicate public code repositories and do not reflect experience or skill level.
-  </p>
-</details>
+  <img alt="Raqib's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulraqib20&theme=algolia" />
+</p>
+<p align="center">
+  <b>Current Streak:</b> 10 days<br/>
+  <b>Longest Streak:</b> 30 days<br/>
+  <b>Total PRs:</b> 50<br/>
+  <b>Total Issues:</b> 25<br/>
+</p>
 <br/>
 :trophy: Git Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vic3sax&theme=algolia" alt="Vic3sax's Trophies" />
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/raqibcodes target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raqib" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/abdulraqib-omotosho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdulraqib Omotosho" height="30" width="40" /></a>
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulraqib20&theme=algolia" alt="Abdulraqib20's Trophies" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulraqib20&show_icons=true&locale=en&layout=compact" alt="abdulraqib20" /></p>
 
