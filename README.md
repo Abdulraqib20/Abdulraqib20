@@ -3,10 +3,7 @@
 ![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdulraqib Omotosho </h1>
-</p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
-<br>
-
+<!-- <br> -->
 <h1><img align="center" alt="" width="1000" height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></h1>
 <h1 align="center">Hi 👋, I'm Abdulraqib Omotosho</h1>
 <h3 align="center">An aspiring ML Engineer and a Data Scientist from Nigeria</h3>
