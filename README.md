@@ -1,8 +1,32 @@
-# Welcome to my GitHub Profile👨‍💻🚀🌍
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    @keyframes slideIn {
+      0% {
+        transform: translateY(-100%);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+
+    .headline {
+      font-size: 48px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 50px;
+      animation: slideIn 1s ease;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="headline">Welcome to my GitHub Profile<span style="animation: slideIn 1s ease infinite; display: inline-block;">👨‍💻🚀🌍</span></h1>
+</body>
+</html>
 
 ![gitartwork](gitartwork.svg)
 
-<!-- <br> -->
 <h1><img align="center" alt="" width="1000" height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></h1>
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdulraqib Omotosho </h1>
 <h3 align="center">An aspiring ML Engineer and a Data Scientist from Nigeria</h3>
@@ -191,15 +215,13 @@
 </p> 
 <br>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img alt="Raqib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulraqib20&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
   <br/>
   <img alt="Raqib's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulraqib20&theme=algolia" />
 </p>
 <p align="center">
-  <b>Current Streak:</b> 10 days<br/>
-  <b>Longest Streak:</b> 30 days<br/>
   <b>Total PRs:</b> 50<br/>
   <b>Total Issues:</b> 25<br/>
 </p>
@@ -209,9 +231,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdulraqib20&theme=algolia" alt="Abdulraqib20's Trophies" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulraqib20&show_icons=true&locale=en&layout=compact" alt="abdulraqib20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulraqib20&show_icons=true&locale=en" alt="abdulraqib20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulraqib20&" alt="abdulraqib20" /></p>
