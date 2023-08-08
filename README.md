@@ -31,6 +31,7 @@
 
 ## 🛠️ My SKills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
+### 👩‍💻 Data Science and Machine Learning 
 <p align="left"> 
   &emsp; 
   <a href="https://numpy.org/" target="_blank"> 
@@ -70,7 +71,7 @@
   </a>
 </p>
 
-### 👉 Business Intelligence (BI) Tools
+### 💹 Business Intelligence (BI) Tools
 <p align="left">
   &emsp;
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
