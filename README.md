@@ -119,13 +119,13 @@
 ### 📈 Spreadsheets (Excel and Google Sheets)
 <p align="left">
   &emsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Microsoft Excel" width="40" height="40"/>
-  </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/images/icons/product/excel-2020-72dp.png" alt="Microsoft Excel" width="40" height="40"/>
+</a>
   &emsp;
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="Google Sheets" width="40" height="40"/>
-  </a>
+  <img src="https://www.google.com/images/icons/product/sheets-2020-72dp.png" alt="Google Sheets" width="40" height="40"/>
+</a>
 </p>
 
 ### 💻 IDEs
