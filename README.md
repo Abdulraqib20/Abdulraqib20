@@ -1,12 +1,12 @@
 # Welcome to my GitHub Profile<span style="animation: slideIn 1s ease infinite; display: inline-block;">👨‍💻🚀🌍</span>
 
 ![gitartwork](gitartwork.svg)
-
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdulraqib Omotosho </h1>
+https://media.giphy.com/media/xboWqaDTQDWRAtQzdr/giphy.gif
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/xboWqaDTQDWRAtQzdr/giphy.gif" width="35"> I'm Abdulraqib Omotosho </h1>
 <h3 align="center">An aspiring ML Engineer and a Data Scientist from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraqib20"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraqib20"/></p>
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
