@@ -6,7 +6,7 @@ https://media.giphy.com/media/xboWqaDTQDWRAtQzdr/giphy.gif
 <h3 align="center">An aspiring ML Engineer and a Data Scientist from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraqib20"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt=""/></p>
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
