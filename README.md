@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
-![Profile views](https://shields.io/github/profile-views/username/bardabdulraqib20
+![Profile views](https://shields.io/github/profile-views/username/abdulraqib20)
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
