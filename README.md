@@ -29,7 +29,7 @@
 <a href="https://medium.com/@abdulraqibshakir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulraqibshakir" height="30" width="40" /></a>
 </p> <br>
 
-## 🛠️ My SKills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 🛠️ My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 ### 👩‍💻 Data Science and Machine Learning 
 <p align="left"> 
@@ -124,7 +124,7 @@
 </a>
   &emsp;
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/images/icons/product/sheets-2020-72dp.png" alt="Google Sheets" width="40" height="40"/>
+  <img src="https://www.google.com/images/icons/product/sheets-2020-72dp.png" alt="Google Sheets" width="20" height="20"/>
 </a>
 </p>
 
