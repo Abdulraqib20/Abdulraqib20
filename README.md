@@ -6,8 +6,7 @@
 <h3 align="center">An aspiring ML Engineer and a Data Scientist from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-
-![Profile views](https://shields.io/github/profile-views/username/abdulraqib20)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraqib20"/> </p>
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
