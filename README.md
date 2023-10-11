@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
-![Profile views](https://komarev.com/ghpvc/?username=abdulraqib20&color=blue)
+![Profile views](https://shields.io/github/profile-views/username/bardabdulraqib20
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
