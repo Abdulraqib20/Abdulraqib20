@@ -2,21 +2,19 @@
 
 ![gitartwork](gitartwork.svg)
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">🤟 Hi, I'm Abdulraqib Omotosho </h1>
-<h3 align="center">A Data Scientist and Machine Learning Engineer from Nigeria</h3>
+<h1 align="center">🐱‍👤 Hi, I'm Abdulraqib Omotosho </h1>
+<h3 align="center">A Data Scientist and Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt=""/></p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Generative AI and LLMs**
 
-- 🌱 I’m currently learning **Python, Data Science & Analytics and ML**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**
+- 👯 I’m looking to collaborate on **Machine Learning & Data Science projects**
 
 - 👨‍💻 All of my projects are available at [raqibcodes.tech](raqibcodes.tech)
 
-- 💬 Ask me about **Python, ML**
+- 💬 Ask me about **Python, Machine Learning, Data Science and Artificial Intelligence**
 
 - 📫 How to reach me **abdulraqibshakir03@gmail.com**
 
@@ -178,4 +176,4 @@
 </p>
 
 -----
-Edited By: [raqibcodes](https://github.com/Abdulraqib20)
+Edited By: [raqibcodes](https://twitter.com/raqibcodes)
