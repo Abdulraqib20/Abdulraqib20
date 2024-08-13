@@ -1,8 +1,15 @@
 ![gitartwork](gitartwork.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Abdulraqib+Omotosho+(raqibcodes);I'm +a+Data+Scientist+&+ML+Engineer;Generative+AI+Engineer;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+Digital+Playground!&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22%22">
 </div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist+📊;Machine+Learning+Engineer+🤖;Generative+AI+Enthusiast+🧠;&center=true&size=30&width=580&duration=4000&pause=1000">
+  </a>
+</h1>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
