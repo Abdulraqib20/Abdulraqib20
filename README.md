@@ -1,5 +1,4 @@
 ![gitartwork](gitartwork.svg)
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Abdulraqib+Omotosho;Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
