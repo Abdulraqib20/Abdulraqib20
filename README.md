@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Abdulraqib+Omotosho;Data+Scientist+%7C+ML+Engineer;Generative+AI+Engineer;AI+Enthusiast&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Abdulraqib+Omotosho;Data+Scientist+%7C+ML+Engineer;Generative+AI+Engineer;&font=Fira%20Code&center=true&width=4800&height=50&duration=4000&pause=1000">
 </div>
 
 <p align="center">
