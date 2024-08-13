@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Abdulraqib+Omotosho+(raqibcodes);Data+Scientist+%7C+ML+Engineer;Generative+AI+Engineer;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000">
 </div>
 
-<p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   raqibcodes
@@ -161,8 +157,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulraqib20&theme=react-dark" alt="Abdulraqib20's GitHub Activity Graph">
 </p>
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting my profile!;Have+a+great+day!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me;Let's+collaborate+on+exciting+projects;Wishing+you+a+fantastic+day!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000&color=4F94EF">
+
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love">
+    <img src="https://img.shields.io/badge/Powered%20by-Data%20Science-blue.svg" alt="Powered by Data Science">
+    <img src="https://img.shields.io/badge/Open%20for-Collaboration-green.svg" alt="Open for Collaboration">
+  </p>
+
+  <p>
+    <a href="https://github.com/Abdulraqib20" target="_blank">
+      <img src="https://img.shields.io/github/followers/Abdulraqib20?label=Follow&style=social" alt="GitHub followers">
+    </a>
+    <a href="https://twitter.com/raqibcodes" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/raqibcodes?style=social" alt="Twitter Follow">
+    </a>
+  </p>
+</div>
