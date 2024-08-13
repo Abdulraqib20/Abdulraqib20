@@ -1,20 +1,13 @@
 ![gitartwork](gitartwork.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22%22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho+(raqibcodes);Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22%22">
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist+📊;Machine+Learning+Engineer+🤖;Generative+AI+Enthusiast+🧠;&center=true&size=30&width=580&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist+📊;A+Machine+Learning+Engineer+🤖;A+Generative+AI+Engineer+🧠;&center=true&size=30&width=580&duration=4000&pause=1000">
   </a>
-</h1>
-
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  raqibcodes
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <h3 align="center">Turning Data into Insights, Code into Intelligence</h3>
