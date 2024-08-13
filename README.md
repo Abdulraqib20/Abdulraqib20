@@ -1,5 +1,8 @@
+![gitartwork](gitartwork.svg)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+realm!;I'm+Abdulraqib+Omotosho;Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Abdulraqib+Omotosho;Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 <p align="center">
@@ -40,12 +43,12 @@
     <td>
       <h2>🚀 About Me</h2>
       <ul>
-        <li>🔭 Currently exploring the realms of <strong>Generative AI and LLMs</strong></li>
-        <li>👯 Open to collaborate on <strong>Machine Learning & Data Science projects</strong></li>
+        <li>🔭 Currently exploring the field of <strong>Generative AI and Large Language Models</strong></li>
+        <li>👯 Open to collaborate on <strong>Machine Learning, Data Science and Generative AI projects</strong></li>
         <li>👨‍💻 Check out my projects at <a href="https://raqibcodes.tech">raqibcodes.tech</a></li>
         <li>💬 Ask me about <strong>Python, Machine Learning, Data Science, and AI</strong></li>
         <li>📫 Reach me at <strong>abdulraqibshakir03@gmail.com</strong></li>
-        <li>⚡ Fun fact: I love watching football and AI research documentaries</li>
+        <li>⚡ Fun fact: I love reading AI Research papers and watching documentaries</li>
       </ul>
     </td>
     <td>
@@ -153,20 +156,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Abdulraqib20&theme=algolia&column=4&margin-w=15&margin-h=15" alt="Abdulraqib20's Trophies" />
 </p>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abdulraqib20&theme=react-dark" alt="Abdulraqib20's Contribution Graph" />
-</p>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdulraqib20/Abdulraqib20/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulraqib20&theme=react-dark" alt="Abdulraqib20's GitHub Activity Graph">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Have+a+great+day!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting my profile!;Have+a+great+day!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
