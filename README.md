@@ -65,24 +65,88 @@
   </tr>
 </table>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+  Technologies & Tools
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</h2>
 
 <details open>
-<summary><b>🧠 Data Science & Machine Learning</b></summary>
+<summary>
+  <b>🧠 Data Science & Machine Learning</b>
+  <i>(click to expand/collapse)</i>
+</summary>
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/SciKit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" alt="NLTK">
-  <img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers">
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <br>Pandas
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+        <br>Scikit-learn
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+        <br>Keras
+      </td>
+      <td align="center" width="96">
+        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" height="48" alt="Seaborn" />
+        <br>Seaborn
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.nltk.org/_static/nltk_logo.png" width="48" height="48" alt="NLTK" />
+        <br>NLTK
+      </td>
+      <td align="center" width="96">
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="Hugging Face" />
+        <br>Transformers
+      </td>
+    </tr>
+  </table>
+</div>
+
 </details>
+
+<style>
+  .wiggle {
+    animation: wiggle 3s linear infinite;
+  }
+  @keyframes wiggle {
+    0%, 7% { transform: rotateZ(0); }
+    15% { transform: rotateZ(-15deg); }
+    20% { transform: rotateZ(10deg); }
+    25% { transform: rotateZ(-10deg); }
+    30% { transform: rotateZ(6deg); }
+    35% { transform: rotateZ(-4deg); }
+    40%, 100% { transform: rotateZ(0); }
+  }
+</style>
+
+<div align="center" class="wiggle">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" />
+</div>
 
 <details>
 <summary><b>📊 Business Intelligence</b></summary>
