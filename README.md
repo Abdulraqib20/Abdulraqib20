@@ -8,9 +8,8 @@
   </a>
 </h1>
 
-<p align="center">
-  ![gitartwork](gitartwork.svg)
-</p>
+![gitartwork](gitartwork.svg)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdulraqib20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
