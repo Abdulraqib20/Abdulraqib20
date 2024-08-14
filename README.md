@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=F75C7E&vCenter=true&size=35&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=3EA84D&vCenter=true&size=35&duration=4000&pause=1000">
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist;I'm+a+Machine+Learning+Engineer;I'm+a+Generative+AI+Engineer;&center=true&size=30&width=800&duration=4000&pause=1000&color=F75C7E&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist;I'm+a+Machine+Learning+Engineer;I'm+a+Generative+AI+Engineer;&center=true&size=30&width=800&duration=4000&pause=1000&color=3EA84D&background=FFFFFF00">
   </a>
 </h1>
 
