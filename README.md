@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=3EA84D&vCenter=true&size=45&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=3EA84D&vCenter=true&size=35&duration=4000&pause=1000">
 </div>
 
 <h1 align="center">
