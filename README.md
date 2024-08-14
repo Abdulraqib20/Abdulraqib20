@@ -1,38 +1,65 @@
-![gitartwork](gitartwork.svg)
-
 <div align="center">
-  <!-- Animated waving hand -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-  
-  <!-- Typing SVG with enhanced styles -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=700&height=50&color=3EA84D&vCenter=true&size=25&duration=3000">
+  <!-- Pulsating animated emoji -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" style="animation: pulse 2s infinite">
+
+  <!-- Typing SVG with enhanced styles and gradient effect -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=50&color=3EA84D&vCenter=true&size=30&duration=3000">
 </div>
 
 <h1 align="center">
-  <!-- Glowing text effect with Typing SVG -->
+  <!-- Neon glow effect with Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist;I'm+a+Machine+Learning+Engineer;I'm+a+Generative+AI+Engineer;&center=true&size=30&width=650&height=50&duration=4000&pause=1000&color=FF5733">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist;I'm+a+Machine+Learning+Engineer;I'm+a+Generative+AI+Engineer;&center=true&size=35&width=800&height=50&duration=4000&pause=1000&color=FF5733">
   </a>
 </h1>
 
-<!-- Additional styling for aesthetic effect -->
+<!-- Additional styling for more striking aesthetic effects -->
 <style>
   h1 {
     font-family: 'Fira Code', monospace;
     color: #3EA84D;
-    text-shadow: 2px 2px 8px rgba(62, 168, 77, 0.6);
+    text-shadow: 0 0 20px #3EA84D, 0 0 30px #3EA84D, 0 0 40px #3EA84D, 0 0 50px #3EA84D, 0 0 60px #3EA84D, 0 0 70px #3EA84D, 0 0 80px #3EA84D;
+    animation: neon 1.5s ease-in-out infinite alternate;
   }
+  
   div img {
     margin-top: 20px;
+    animation: slideIn 1.5s ease-in-out;
   }
-  div {
-    animation: fadeIn 2s ease-in-out;
+  
+  @keyframes neon {
+    from {
+      text-shadow: 0 0 5px #3EA84D, 0 0 10px #3EA84D, 0 0 15px #3EA84D, 0 0 20px #3EA84D, 0 0 25px #3EA84D, 0 0 30px #3EA84D, 0 0 35px #3EA84D;
+    }
+    to {
+      text-shadow: 0 0 10px #3EA84D, 0 0 20px #3EA84D, 0 0 30px #3EA84D, 0 0 40px #3EA84D, 0 0 50px #3EA84D, 0 0 60px #3EA84D, 0 0 70px #3EA84D;
+    }
   }
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
+  
+  @keyframes slideIn {
+    0% {
+      transform: translateY(-50px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
   }
 </style>
+
 
 
 <h3 align="center">Turning Data into Insights, Code into Intelligence</h3>
@@ -57,6 +84,8 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+![gitartwork](gitartwork.svg)
 
 <table align="center">
   <tr>
