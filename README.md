@@ -65,148 +65,25 @@
   </tr>
 </table>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
-  Technologies & Tools
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</h2>
 
+<h2 align="center">🛠️ Technologies & Tools</h2>
 <details open>
-<summary>
-  <b>🧠 Data Science & Machine Learning</b>
-  <i>(click to expand/collapse)</i>
-</summary>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-        <br>NumPy
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-        <br>Pandas
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-        <br>Scikit-learn
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
-        <br>Keras
-      </td>
-      <td align="center" width="96">
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" height="48" alt="Seaborn" />
-        <br>Seaborn
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.nltk.org/_static/nltk_logo.png" width="48" height="48" alt="NLTK" />
-        <br>NLTK
-      </td>
-      <td align="center" width="96">
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="Hugging Face" />
-        <br>Transformers
-      </td>
-    </tr>
-  </table>
-</div>
-
-</details>
-
-<style>
-  .wiggle {
-    animation: wiggle 3s linear infinite;
-  }
-  @keyframes wiggle {
-    0%, 7% { transform: rotateZ(0); }
-    15% { transform: rotateZ(-15deg); }
-    20% { transform: rotateZ(10deg); }
-    25% { transform: rotateZ(-10deg); }
-    30% { transform: rotateZ(6deg); }
-    35% { transform: rotateZ(-4deg); }
-    40%, 100% { transform: rotateZ(0); }
-  }
-</style>
-
-<div align="center" class="wiggle">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" />
-</div>
-
-<details>
-<summary><b>📊 Business Intelligence</b></summary>
+<summary><b>🧠 Data Science & Machine Learning</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/SciKit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" alt="NLTK">
+  <img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers">
 </p>
 </details>
 
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-</p>
-</details>
-
-<details>
-<summary><b>📈 Spreadsheets</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets">
-</p>
-</details>
-
-<details>
-<summary><b>💻 IDEs & Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab">
-</p>
-</details>
-
-<details>
-<summary><b>🎨 Design Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-</p>
-</details>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
