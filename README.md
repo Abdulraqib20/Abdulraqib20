@@ -1,14 +1,39 @@
 ![gitartwork](gitartwork.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=580&height=45&color=3EA84D&vCenter=true&size=22%22">
+  <!-- Animated waving hand -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+  
+  <!-- Typing SVG with enhanced styles -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=700&height=50&color=3EA84D&vCenter=true&size=25&duration=3000">
 </div>
 
 <h1 align="center">
+  <!-- Glowing text effect with Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist+📊;I'm+a+Machine+Learning+Engineer+🤖;I'm+a+Generative+AI+Engineer🤖;&center=true&size=30&width=580&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist;I'm+a+Machine+Learning+Engineer;I'm+a+Generative+AI+Engineer;&center=true&size=30&width=650&height=50&duration=4000&pause=1000&color=FF5733">
   </a>
 </h1>
+
+<!-- Additional styling for aesthetic effect -->
+<style>
+  h1 {
+    font-family: 'Fira Code', monospace;
+    color: #3EA84D;
+    text-shadow: 2px 2px 8px rgba(62, 168, 77, 0.6);
+  }
+  div img {
+    margin-top: 20px;
+  }
+  div {
+    animation: fadeIn 2s ease-in-out;
+  }
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
 
 <h3 align="center">Turning Data into Insights, Code into Intelligence</h3>
 
