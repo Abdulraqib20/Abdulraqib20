@@ -4,12 +4,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist+📊;I'm+a+Machine+Learning+Engineer+🤖;I'm+a+Generative+AI+Engineer+🧠;&center=true&size=30&width=800&duration=4000&pause=1000&color=F75C7E&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist;I'm+a+Machine+Learning+Engineer;I'm+a+Generative+AI+Engineer;&center=true&size=30&width=800&duration=4000&pause=1000&color=F75C7E&background=FFFFFF00">
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+  ![gitartwork](gitartwork.svg)
 </p>
 
 <p align="center">
@@ -46,8 +46,6 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-![gitartwork](gitartwork.svg)
 
 <table align="center">
   <tr>
