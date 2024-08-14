@@ -1,64 +1,47 @@
 <div align="center">
-  <!-- Pulsating animated emoji -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" style="animation: pulse 2s infinite">
-
-  <!-- Typing SVG with enhanced styles and gradient effect -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=50&color=3EA84D&vCenter=true&size=30&duration=3000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Abdulraqib+Omotosho!;Welcome+to+my+GitHub+Profile!;" alt="Title"></img>
 </div>
 
-<h1 align="center">
-  <!-- Neon glow effect with Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Data+Scientist;I'm+a+Machine+Learning+Engineer;I'm+a+Generative+AI+Engineer;&center=true&size=35&width=800&height=50&duration=4000&pause=1000&color=FF5733">
-  </a>
-</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
 
-<!-- Additional styling for more striking aesthetic effects -->
-<style>
-  h1 {
-    font-family: 'Fira Code', monospace;
-    color: #3EA84D;
-    text-shadow: 0 0 20px #3EA84D, 0 0 30px #3EA84D, 0 0 40px #3EA84D, 0 0 50px #3EA84D, 0 0 60px #3EA84D, 0 0 70px #3EA84D, 0 0 80px #3EA84D;
-    animation: neon 1.5s ease-in-out infinite alternate;
-  }
-  
-  div img {
-    margin-top: 20px;
-    animation: slideIn 1.5s ease-in-out;
-  }
-  
-  @keyframes neon {
-    from {
-      text-shadow: 0 0 5px #3EA84D, 0 0 10px #3EA84D, 0 0 15px #3EA84D, 0 0 20px #3EA84D, 0 0 25px #3EA84D, 0 0 30px #3EA84D, 0 0 35px #3EA84D;
-    }
-    to {
-      text-shadow: 0 0 10px #3EA84D, 0 0 20px #3EA84D, 0 0 30px #3EA84D, 0 0 40px #3EA84D, 0 0 50px #3EA84D, 0 0 60px #3EA84D, 0 0 70px #3EA84D;
-    }
-  }
-  
-  @keyframes slideIn {
-    0% {
-      transform: translateY(-50px);
-      opacity: 0;
-    }
-    100% {
-      transform: translateY(0);
-      opacity: 1;
-    }
-  }
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" /></a>
+</p>
 
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<h3 align="left">About Me:</h3>
+
+- 🔭 I'm currently working on **Generative AI and LLMs**
+- 👯 I'm looking to collaborate on **ML & Data Science projects**
+- 💬 Ask me about **Python, ML, Data Science, and AI**
+- 📫 How to reach me: **abdulraqibshakir03@gmail.com**
+- ⚡ Fun fact: **I love watching football and AI documentaries**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/abdulraqib-omotosho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulraqib-omotosho" height="30" width="40" /></a>
+  <a href="https://kaggle.com/abdulraqib-omotosho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulraqib-omotosho" height="30" width="40" /></a>
+  <a href="https://medium.com/@abdulraqibshakir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulraqibshakir03" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</div>
 
 
 
