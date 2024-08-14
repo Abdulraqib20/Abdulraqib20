@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=3EA84D&vCenter=true&size=35&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Abdulraqib+Omotosho;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=F75C7E&vCenter=true&size=35&duration=4000&pause=1000">
 </div>
 
 <h1 align="center">
@@ -177,8 +177,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me;Let's+collaborate+on+exciting+projects;Wishing+you+a+fantastic+day!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000&color=3EA84D">
 
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love">
-    <img src="https://img.shields.io/badge/Powered%20by-Data%20Science-blue.svg" alt="Powered by Data Science">
+    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love by raqibcodes">
     <img src="https://img.shields.io/badge/Open%20for-Collaboration-green.svg" alt="Open for Collaboration">
   </p>
 
