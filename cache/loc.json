@@ -1,0 +1,380 @@
+{
+ "Abdulraqib20/ACSC": {
+  "added": 11689,
+  "bulk": 5000,
+  "deleted": 5809,
+  "oid": "b24052039eb871e803bfcefe0e05d91858682c84"
+ },
+ "Abdulraqib20/AI-Powered-Customer-Support-Agent": {
+  "added": 56445,
+  "bulk": 5000,
+  "deleted": 11316,
+  "oid": "aee7ba56046ba3d41cce6c5939920f5673ee860e"
+ },
+ "Abdulraqib20/AI-Summer-Class": {
+  "added": 1913,
+  "bulk": 5000,
+  "deleted": 1051,
+  "oid": "ba3de41e2737b554ffbafcc13b45d371fd1b1196"
+ },
+ "Abdulraqib20/Abdulraqib20": {
+  "added": 9316,
+  "bulk": 5000,
+  "deleted": 6735,
+  "oid": "6c1544914d5c6b9f17ef636b00811c56597159d1"
+ },
+ "Abdulraqib20/Agentic-RAG-with-Gemini-2.0-Flash": {
+  "added": 2038,
+  "bulk": 5000,
+  "deleted": 884,
+  "oid": "7d40950b4ea5c691989f13852df731c0855f08b7"
+ },
+ "Abdulraqib20/Algorithm-HSDC-23-Project": {
+  "added": 2807,
+  "bulk": 5000,
+  "deleted": 1,
+  "oid": "1872e27e25e5c97bacf4c81d72415c9eb588f012"
+ },
+ "Abdulraqib20/Audio-Transcription-App": {
+  "added": 371,
+  "bulk": 5000,
+  "deleted": 53,
+  "oid": "47836c88730ebaf8ec40e7bfed1da7fc25a5dfc4"
+ },
+ "Abdulraqib20/BUILDING-A-DASHBOARD-USING-MATPLOTLIB": {
+  "added": 254,
+  "bulk": 5000,
+  "deleted": 0,
+  "oid": "c61134785472321a6332569904a76103a99308b6"
+ },
+ "Abdulraqib20/Banking-Sentiment-Analysis-in-Nigeria": {
+  "added": 3368,
+  "bulk": 5000,
+  "deleted": 6,
+  "oid": "ad71ddfa49e627cd4da14648e64eaecbd14ee5e7"
+ },
+ "Abdulraqib20/Book-Recommender-System": {
+  "added": 205,
+  "bulk": 5000,
+  "deleted": 1046,
+  "oid": "45ea81f0c8ba4eefc3b515440c9a6b0ea588a9e7"
+ },
+ "Abdulraqib20/CBT": {
+  "added": 2346,
+  "bulk": 5000,
+  "deleted": 591,
+  "oid": "35747d32138dbb847a69205613320a0a55125110"
+ },
+ "Abdulraqib20/Computer-Engineering-Students-Sentiments-Analyzer-App": {
+  "added": 14652,
+  "bulk": 5000,
+  "deleted": 5302,
+  "oid": "d5fce13ef517ef838b7f36d9561d0a01d98ef2a9"
+ },
+ "Abdulraqib20/Customer-Personality-Analysis": {
+  "added": 6721,
+  "bulk": 5000,
+  "deleted": 827,
+  "oid": "29d5cda7efd1d4d9067ca610f5e2cf39cb4c1d5e"
+ },
+ "Abdulraqib20/Employee-Attrition-Prediction-Using-Gradient-Boosting-Algorithms": {
+  "added": 3468,
+  "bulk": 5000,
+  "deleted": 1,
+  "oid": "96f92ca97d569c243ecbb99a2795656ee3196fc4"
+ },
+ "Abdulraqib20/Google-Play-Store-Apps-and-Reviews": {
+  "added": 27,
+  "bulk": 5000,
+  "deleted": 1,
+  "oid": "d7e8da1de7db0ad8132819d21ce03b496e434fe1"
+ },
+ "Abdulraqib20/PDFGPT": {
+  "added": 2393,
+  "bulk": 5000,
+  "deleted": 1202,
+  "oid": "da3be60ebf0a604fc508982e9f00697639731b99"
+ },
+ "Abdulraqib20/Portfolio-Website": {
+  "added": 519,
+  "bulk": 5000,
+  "deleted": 271,
+  "oid": "b3c7837b681728824bd8ec9decb813c98a3dffc7"
+ },
+ "Abdulraqib20/Prosper-Loan-Analysis": {
+  "added": 168,
+  "bulk": 5000,
+  "deleted": 158,
+  "oid": "a4bc059c3c07516b97c59422c9bcf4db93b35a23"
+ },
+ "Abdulraqib20/RAG-System-for-a-Targeted-Use-Case": {
+  "added": 1202,
+  "bulk": 5000,
+  "deleted": 28,
+  "oid": "8e98ed6d5bf0129229ed66c2364708463f2a9d27"
+ },
+ "Abdulraqib20/Sentiment-Analysis-with-Student-Feedback": {
+  "added": 14344,
+  "bulk": 5000,
+  "deleted": 9752,
+  "oid": "fe3856545b038a8fc207aeeabb2f3a096d2754a9"
+ },
+ "Abdulraqib20/Smart-Building-Energy-Predictor": {
+  "added": 8397,
+  "bulk": 5000,
+  "deleted": 3025,
+  "oid": "11542da6938a75ff8cdb7f66ed43cfcfbfbb36be"
+ },
+ "Abdulraqib20/Soccer-Database-Analysis": {
+  "added": 4,
+  "bulk": 5000,
+  "deleted": 3,
+  "oid": "ed8c727d8e3c1ae0aa0e4828de46f773f19d7af7"
+ },
+ "Abdulraqib20/TMDb-Movie-Analysis": {
+  "added": 2269,
+  "bulk": 5000,
+  "deleted": 4986,
+  "oid": "c705db4d3b8e2e8b624a918c0311c96e7c9d6800"
+ },
+ "Abdulraqib20/Titanic-Prediction-Machine-learning": {
+  "added": 3912,
+  "bulk": 5000,
+  "deleted": 0,
+  "oid": "d8578489e1da71713bbc1a08407a60b5e7d542d2"
+ },
+ "Abdulraqib20/Vendease-RAG-Application": {
+  "added": 5573,
+  "bulk": 5000,
+  "deleted": 4226,
+  "oid": "ee51e83f8b0b5ed3ea5644f583c06a38ab1472ea"
+ },
+ "Abdulraqib20/WeRateDogs-Twitter-Analysis-": {
+  "added": 23,
+  "bulk": 5000,
+  "deleted": 7,
+  "oid": "0585a1954813cb20bf3f3a9066980408725567e9"
+ },
+ "Abdulraqib20/WhatsApp-Chats-Analyzer-App": {
+  "added": 9074,
+  "bulk": 5000,
+  "deleted": 7234,
+  "oid": "b1647f42a46b99e3b151ef11b4b1c39c8ec41ecc"
+ },
+ "Abdulraqib20/Whatsapp-Chat-analysis": {
+  "added": 4191,
+  "bulk": 5000,
+  "deleted": 1,
+  "oid": "73ba2d73902579c5c30aa35f9bfad3dafae733f7"
+ },
+ "Abdulraqib20/agentic-rag-system": {
+  "added": 3209,
+  "bulk": 5000,
+  "deleted": 594,
+  "oid": "6fe19c5c8782a6609dca1aa984f79e919f108d38"
+ },
+ "Abdulraqib20/ai-health-and-fitness-planner": {
+  "added": 3311,
+  "bulk": 5000,
+  "deleted": 1,
+  "oid": "b29f35a5554aa2f93314787bc8e939b28f2d43e3"
+ },
+ "Abdulraqib20/ai-voice-translator": {
+  "added": 1249,
+  "bulk": 5000,
+  "deleted": 2,
+  "oid": "7aa3764fc242f1a81dbd269498221383e60e9a97"
+ },
+ "Abdulraqib20/anpr-system-development": {
+  "added": 29788,
+  "bulk": 5000,
+  "deleted": 7304,
+  "oid": "13f93efe0bad27d40fb3eb973b1bb62f3e117d89"
+ },
+ "Abdulraqib20/automate-gmail-with-crewai-llama-gemini": {
+  "added": 4,
+  "bulk": 5000,
+  "deleted": 4,
+  "oid": "5efd4bf11d5903767d9ada146bd17dc824a35d6a"
+ },
+ "Abdulraqib20/bul-50-exam-ace": {
+  "added": 6503,
+  "bulk": 5000,
+  "deleted": 1428,
+  "oid": "6c7e56d09bebf241152dbbf006b09a37aaeee569"
+ },
+ "Abdulraqib20/case-study-for-google-data-analystics-capstone": {
+  "added": 3763,
+  "bulk": 5000,
+  "deleted": 0,
+  "oid": "ba744544dfbff585c94c20bedd1c498d88626a1f"
+ },
+ "Abdulraqib20/currency-converter-agent": {
+  "added": 1676,
+  "bulk": 5000,
+  "deleted": 17,
+  "oid": "f6e814216a12e4634f336467026687a387d621d2"
+ },
+ "Abdulraqib20/dashbot": {
+  "added": 20132,
+  "bulk": 5000,
+  "deleted": 4519,
+  "oid": "b52948a081848b8b1408e1527f1d7548c9d43aab"
+ },
+ "Abdulraqib20/epl-games-prediction": {
+  "added": 2,
+  "bulk": 5000,
+  "deleted": 0,
+  "oid": "92dfbd824be78b1390c134c7c97630a107b49422"
+ },
+ "Abdulraqib20/fassara": {
+  "added": 2802,
+  "bulk": 5000,
+  "deleted": 574,
+  "oid": "b5a24a6c05f80060981517ba974128ab36c9d6ed"
+ },
+ "Abdulraqib20/first-heroku-flask": {
+  "added": 458,
+  "bulk": 5000,
+  "deleted": 0,
+  "oid": "4e111b3686d8ca78d62388ebcf7469f7e9d8aa0b"
+ },
+ "Abdulraqib20/first-web-scraping": {
+  "added": 6,
+  "bulk": 5000,
+  "deleted": 3,
+  "oid": "6fa7390d29cfafa35eb33d91ae1b7c5c53d419ad"
+ },
+ "Abdulraqib20/gemma-c2c": {
+  "added": 777,
+  "bulk": 5000,
+  "deleted": 324,
+  "oid": "47b9cf7fa2b0ca3b0a8b895e34d2fcb798d6db88"
+ },
+ "Abdulraqib20/genAI-apps": {
+  "added": 601,
+  "bulk": 5000,
+  "deleted": 295,
+  "oid": "cbdccc99e51f51368be6d924a8a78090ca78e2fd"
+ },
+ "Abdulraqib20/irembo-voice-ai": {
+  "added": 4310,
+  "bulk": 5000,
+  "deleted": 3264,
+  "oid": "60d86d2e6bdf55b60c960c3ca8bbd24eb4aa9080"
+ },
+ "Abdulraqib20/kidora": {
+  "added": 9526,
+  "bulk": 5000,
+  "deleted": 687,
+  "oid": "e9b7460f4328ac57862f63fd6dc2a73713fe8ba1"
+ },
+ "Abdulraqib20/lab-streaks": {
+  "added": 57,
+  "bulk": 5000,
+  "deleted": 253,
+  "oid": "82a403a686bad4412f88e10885f292868b6833ee"
+ },
+ "Abdulraqib20/miva-open-university-data-scientist-technical-assessment": {
+  "added": 328,
+  "bulk": 5000,
+  "deleted": 1337,
+  "oid": "36ff46b5b158d922265da533ef7b81f9a1f77b50"
+ },
+ "Abdulraqib20/mkulima-copilot": {
+  "added": 639,
+  "bulk": 5000,
+  "deleted": 268,
+  "oid": "7259395cccadb27373101a8459b4b600d918267e"
+ },
+ "Abdulraqib20/model-context-protocol-mcp-with-next-js": {
+  "added": 1811,
+  "bulk": 5000,
+  "deleted": 0,
+  "oid": "6d5ecd7c1caa743c62adfa11c7817d4cfbabe2ab"
+ },
+ "Abdulraqib20/nigeria-oil-gas-infra": {
+  "added": 3180,
+  "bulk": 5000,
+  "deleted": 24,
+  "oid": "27485693205db84e909a57841a0eae88bf881ed2"
+ },
+ "Abdulraqib20/portfolio-website-9k": {
+  "added": 8091,
+  "bulk": 5000,
+  "deleted": 4953,
+  "oid": "5008ab2b533ce94b2bbe15842d2848b5a7dad3e2"
+ },
+ "Abdulraqib20/prediction-smart-building-energy": {
+  "added": 10884,
+  "bulk": 5000,
+  "deleted": 2596,
+  "oid": "6ac9f516b4d6bd06d60008c5d27cc6fcd1853ae9"
+ },
+ "Abdulraqib20/raqibcodes.github.io": {
+  "added": 19,
+  "bulk": 5000,
+  "deleted": 4,
+  "oid": "0ff46c1dc260fe074172b72f114ce8fe8919aa80"
+ },
+ "Abdulraqib20/rosy-romantic-day": {
+  "added": 0,
+  "bulk": 5000,
+  "deleted": 0,
+  "oid": "23313f7ee218dc1819023b132aa966f5568b5cf9"
+ },
+ "Abdulraqib20/scrape-websites-using-firecrawl": {
+  "added": 1732,
+  "bulk": 5000,
+  "deleted": 482,
+  "oid": "593017e1ab72306f5c31a873e2398768078b0d78"
+ },
+ "Abdulraqib20/search-atlas-interview": {
+  "added": 4081,
+  "bulk": 5000,
+  "deleted": 2938,
+  "oid": "a1150e60bde381ba4445ee7b4e7dd171c4955057"
+ },
+ "Abdulraqib20/search_atlas_assessment": {
+  "added": 936,
+  "bulk": 5000,
+  "deleted": 20,
+  "oid": "20d6b3e05def269551dcf56f4d04f74a47124ba2"
+ },
+ "Abdulraqib20/simple-lead-tracking-system": {
+  "added": 4249,
+  "bulk": 5000,
+  "deleted": 890,
+  "oid": "fa95749f7c9ffeb5cc282c2d2d0131882a3b5d19"
+ },
+ "Abdulraqib20/student-performance-predictor": {
+  "added": 11342,
+  "bulk": 5000,
+  "deleted": 732,
+  "oid": "e677edea7ad0909e50a8f5eb8e0fa0cc73a18d64"
+ },
+ "Abdulraqib20/telecom-churn-prediction": {
+  "added": 7473,
+  "bulk": 5000,
+  "deleted": 7419,
+  "oid": "1ae2da252547521eb44cb8af320bf986bf042894"
+ },
+ "Abdulraqib20/union-bank-data-scientist-assessment": {
+  "added": 4557,
+  "bulk": 5000,
+  "deleted": 1768,
+  "oid": "77c500125992f79582e6cd0f8893061b28008e3a"
+ },
+ "Abdulraqib20/vehicle-detection-and-color-analyzer": {
+  "added": 21,
+  "bulk": 5000,
+  "deleted": 17,
+  "oid": "c402f7b3e18bc47aa63784c86f0f57fe86fb2129"
+ },
+ "Abdulraqib20/youtube-downloader-streamlit": {
+  "added": 1550,
+  "bulk": 5000,
+  "deleted": 133,
+  "oid": "f040523d361c54a0de6f52445750820d70b6fb96"
+ }
+}

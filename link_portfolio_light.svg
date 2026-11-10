@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="341.00" height="52" viewBox="0 0 341.00 52" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+</style>
+<rect x="0.50" y="0.5" width="332.00" height="51" rx="10" fill="#f6f8fa" stroke="#6e7781" stroke-opacity="0.45"/>
+<rect x="12.00" y="47" width="309.00" height="2" rx="1" fill="#953800"/>
+<text x="74.70" y="31.95" font-size="17px" fill="#24292f"><tspan fill="#6e7781">$ </tspan><tspan x="95.10">open </tspan><tspan fill="#953800">raqib.codes</tspan></text>
+</svg>

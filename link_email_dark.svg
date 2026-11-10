@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="341.00" height="52" viewBox="0 0 341.00 52" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+</style>
+<rect x="8.50" y="0.5" width="332.00" height="51" rx="10" fill="#161b22" stroke="#6e7681" stroke-opacity="0.45"/>
+<rect x="20.00" y="47" width="309.00" height="2" rx="1" fill="#3fb950"/>
+<text x="113.30" y="31.95" font-size="17px" fill="#c9d1d9"><tspan fill="#6e7681">$ </tspan><tspan x="133.70">open </tspan><tspan fill="#3fb950">email</tspan></text>
+</svg>
