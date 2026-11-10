@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1023" height="491" viewBox="0 0 1023 491" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="1023" height="572" viewBox="0 0 1023 572" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace">
 <style>
 @font-face {
   src: local('Consolas'), local('Consolas Bold');
@@ -16,53 +16,60 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="100%" height="100%" fill="#f6f8fa" rx="12"/>
 <text fill="#24292f" font-size="15.00px">
-<tspan x="15" y="52.65">                 ^        ,</tspan>
-<tspan x="15" y="70.65">              ^::          ::</tspan>
-<tspan x="15" y="88.65">             :    `,"Ii"::   ::</tspan>
-<tspan x="15" y="106.65">            :  :|\|(11{)|1-l   :I</tspan>
-<tspan x="15" y="124.65">           ' ^&gt;\nruvvf)1){~;    :</tspan>
-<tspan x="15" y="142.65">           : :)uYzcJCzvrf/)[i   \</tspan>
-<tspan x="15" y="160.65">           ;  &gt;{)vc?  I1~,.     Y</tspan>
-<tspan x="15" y="178.65">           f_ ,?}i\'   )x   - .&gt;0_</tspan>
-<tspan x="15" y="196.65">           )/l'{Xrt_?1xjY!  ;    1</tspan>
-<tspan x="15" y="214.65">           -|! ~jZOn)\jxJX!  "` ,u</tspan>
-<tspan x="15" y="232.65">            ~&gt;."I{x/uv/1-+  "   X</tspan>
-<tspan x="15" y="250.65">              `,l`if[fvz{_i I {Y|</tspan>
-<tspan x="15" y="268.65">              I 'l~i~/tcf)!{&lt; Cr</tspan>
-<tspan x="15" y="286.65">              il,  I)cn[:   \v}</tspan>
-<tspan x="15" y="304.65">             :a_}["  :-];  ~C</tspan>
-<tspan x="15" y="322.65">           .: OBv)[+&lt;~I   I&amp;X,</tspan>
-<tspan x="15" y="340.65">        `::    k$#J[;Ii`  c{z-::::`</tspan>
-<tspan x="15" y="358.65">    l'::     .  p$$$av&gt;    /$+     ::::^</tspan>
-<tspan x="15" y="376.65"> ;::          `  d$8B$$d!!x$$i          ::.</tspan>
-<tspan x="15" y="394.65">:              .  Z$@#1     rr             :</tspan>
-<tspan x="15" y="412.65">                   a*&gt;     ]1|              `</tspan>
-<tspan x="15" y="430.65">                   :@*ZC   X$k              .[</tspan>
-<tspan x="15" y="448.65">`                   f$vv ,  hB!             .~</tspan>
+<tspan x="15" y="30.00">               ':::::::::::</tspan>
+<tspan x="15" y="48.00">            :::            :::,</tspan>
+<tspan x="15" y="66.00">         '::                   :</tspan>
+<tspan x="15" y="84.00">        :        ...':,  .`      :</tspan>
+<tspan x="15" y="102.00">       :    .rc{{c||cc{TTTc",.    ::</tspan>
+<tspan x="15" y="120.00">      :    ,yZooooooyT{TTT{c"'      :</tspan>
+<tspan x="15" y="138.00">      :  ."TPUUU6###UZyyyyT|"'       .</tspan>
+<tspan x="15" y="156.00">     :   |yP66#888#6PZZooyycr:'`    {:</tspan>
+<tspan x="15" y="174.00">      :  "{Z6##6U8M8#66UPZyyyc:`    ZZ</tspan>
+<tspan x="15" y="192.00">      :  '"{TyU8Pr    cTc:'         Zo</tspan>
+<tspan x="15" y="210.00">     co'  :rc|coo"     :|,     :   ZNT</tspan>
+<tspan x="15" y="228.00">    "{Zc` ,|oZ,:o  c  oU0#    P  ,,."Z</tspan>
+<tspan x="15" y="246.00">     Z|ZT ,|Z#86PT|ry6UZPP,          c</tspan>
+<tspan x="15" y="264.00">     {TZc ,ro#MM#UUUUPyoUUo:   `:'   y</tspan>
+<tspan x="15" y="282.00">      r|r``'ry8NNUTc{ZMM006T,,:     :N</tspan>
+<tspan x="15" y="300.00">         '`'',rToyP88Pr,,.          6U</tspan>
+<tspan x="15" y="318.00">          `','.'cU#P8M88P"yy   . :0cU</tspan>
+<tspan x="15" y="336.00">          ``':::r{  rTU#6y"'. c  |NP{</tspan>
+<tspan x="15" y="354.00">          ,  `':""|6#P68UoZT,Zy  86|</tspan>
+<tspan x="15" y="372.00">          '"'   '"|yPZ{,      |Z8Z</tspan>
+<tspan x="15" y="390.00">         "M.TT'   'ryU#6or'  'U#</tspan>
+<tspan x="15" y="408.00">       .:ZNP"yZT,    .'.     oMc</tspan>
+<tspan x="15" y="426.00">     ':   NNNP{TyT|",,      PNNy</tspan>
+<tspan x="15" y="444.00">   .:     rNNNNU|"r{yyr'   .NN|M::::</tspan>
+<tspan x="15" y="462.00">`::        TNNNNNMc` ..    TU oN     ::::`</tspan>
+<tspan x="15" y="480.00">            {NNNNNNNMc       #NN          ::::</tspan>
+<tspan x="15" y="498.00">             |NNNNNNNNNM:  {NNNN</tspan>
+<tspan x="15" y="516.00">              cNNNNNNNNN|cTrZNNN</tspan>
+<tspan x="15" y="534.00">               |NNNNNN,       rNr</tspan>
+<tspan x="15" y="552.00">                ,NNN{   `    . "U</tspan>
 </text>
 <text fill="#24292f" font-size="16px">
-<tspan x="451" y="31.00"><tspan class="title">abdulraqib@omotosho</tspan> -————————————————————————————————————-</tspan>
-<tspan x="451" y="51.00"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>: <tspan class="dots">......................................</tspan> <tspan class="value">macOS, Ubuntu</tspan></tspan>
-<tspan x="451" y="71.00"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="dots">.....................</tspan> <tspan class="value">4 years, 0 months, 28 days</tspan></tspan>
-<tspan x="451" y="91.00"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>: <tspan class="dots">...........................</tspan> <tspan class="value">Bujeti (YC W23), Lagos</tspan></tspan>
-<tspan x="451" y="111.00"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="dots">............................</tspan> <tspan class="value">Applied AI Engineer</tspan></tspan>
-<tspan x="451" y="131.00"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>: <tspan class="dots">......................</tspan> <tspan class="value">VS Code, Cursor, Claude Code</tspan></tspan>
-<tspan x="451" y="151.00" class="dots">.</tspan>
-<tspan x="451" y="171.00"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>: <tspan class="dots">...</tspan> <tspan class="value">Python, JavaScript, SQL, Bash</tspan></tspan>
-<tspan x="451" y="191.00"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>: <tspan class="dots">........................</tspan> <tspan class="value">English, Yoruba</tspan></tspan>
-<tspan x="451" y="211.00" class="dots">.</tspan>
-<tspan x="451" y="231.00"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">LLM</tspan>: <tspan class="dots">..............</tspan> <tspan class="value">Agents, RAG, tool calling, MCP</tspan></tspan>
-<tspan x="451" y="251.00"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">ML</tspan>: <tspan class="dots">.................</tspan> <tspan class="value">PyTorch, Transformers, QLoRA</tspan></tspan>
-<tspan x="451" y="271.00"><tspan class="dots">. </tspan><tspan class="key">Stack</tspan>: <tspan class="dots">...........</tspan> <tspan class="value">FastAPI, Celery, Redis, Postgres, AWS</tspan></tspan>
-<tspan x="451" y="291.00" class="dots">.</tspan>
-<tspan x="451" y="311.00">- Contact -——————————————————————————————————————————————-</tspan>
-<tspan x="451" y="331.00"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>: <tspan class="dots">........................</tspan> <tspan class="value">omotosho.raqib@gmail.com</tspan></tspan>
-<tspan x="451" y="351.00"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="dots">..........................</tspan> <tspan class="value">abdulraqib-omotosho</tspan></tspan>
-<tspan x="451" y="371.00"><tspan class="dots">. </tspan><tspan class="key">Portfolio</tspan>: <tspan class="dots">.................................</tspan> <tspan class="value">raqib.codes</tspan></tspan>
-<tspan x="451" y="391.00" class="dots">.</tspan>
-<tspan x="451" y="411.00">- GitHub Stats -—————————————————————————————————————————-</tspan>
-<tspan x="451" y="431.00"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>: <tspan class="dots">........</tspan> <tspan class="value">55</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">8</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="dots">........</tspan> <tspan class="value">71</tspan></tspan>
-<tspan x="451" y="451.00"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>: <tspan class="dots">............</tspan> <tspan class="value">3,522</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">...........</tspan> <tspan class="value">122</tspan></tspan>
-<tspan x="451" y="471.00"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="dots">.........</tspan> <tspan class="value">180,763</tspan> ( <tspan class="add">271,443++</tspan>, <tspan class="del">90,680--</tspan> )</tspan>
+<tspan x="451" y="71.35"><tspan class="title">abdulraqib@omotosho</tspan> -————————————————————————————————————-</tspan>
+<tspan x="451" y="91.35"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>: <tspan class="dots">......................................</tspan> <tspan class="value">macOS, Ubuntu</tspan></tspan>
+<tspan x="451" y="111.35"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="dots">.....................</tspan> <tspan class="value">4 years, 0 months, 28 days</tspan></tspan>
+<tspan x="451" y="131.35"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>: <tspan class="dots">...........................</tspan> <tspan class="value">Bujeti (YC W23), Lagos</tspan></tspan>
+<tspan x="451" y="151.35"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="dots">............................</tspan> <tspan class="value">Applied AI Engineer</tspan></tspan>
+<tspan x="451" y="171.35"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>: <tspan class="dots">......................</tspan> <tspan class="value">VS Code, Cursor, Claude Code</tspan></tspan>
+<tspan x="451" y="191.35" class="dots">.</tspan>
+<tspan x="451" y="211.35"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>: <tspan class="dots">...</tspan> <tspan class="value">Python, JavaScript, SQL, Bash</tspan></tspan>
+<tspan x="451" y="231.35"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>: <tspan class="dots">........................</tspan> <tspan class="value">English, Yoruba</tspan></tspan>
+<tspan x="451" y="251.35" class="dots">.</tspan>
+<tspan x="451" y="271.35"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">LLM</tspan>: <tspan class="dots">..............</tspan> <tspan class="value">Agents, RAG, tool calling, MCP</tspan></tspan>
+<tspan x="451" y="291.35"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">ML</tspan>: <tspan class="dots">.................</tspan> <tspan class="value">PyTorch, Transformers, QLoRA</tspan></tspan>
+<tspan x="451" y="311.35"><tspan class="dots">. </tspan><tspan class="key">Stack</tspan>: <tspan class="dots">...........</tspan> <tspan class="value">FastAPI, Celery, Redis, Postgres, AWS</tspan></tspan>
+<tspan x="451" y="331.35" class="dots">.</tspan>
+<tspan x="451" y="351.35">- Contact -——————————————————————————————————————————————-</tspan>
+<tspan x="451" y="371.35"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>: <tspan class="dots">........................</tspan> <tspan class="value">omotosho.raqib@gmail.com</tspan></tspan>
+<tspan x="451" y="391.35"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="dots">..........................</tspan> <tspan class="value">abdulraqib-omotosho</tspan></tspan>
+<tspan x="451" y="411.35"><tspan class="dots">. </tspan><tspan class="key">Portfolio</tspan>: <tspan class="dots">.................................</tspan> <tspan class="value">raqib.codes</tspan></tspan>
+<tspan x="451" y="431.35" class="dots">.</tspan>
+<tspan x="451" y="451.35">- GitHub Stats -—————————————————————————————————————————-</tspan>
+<tspan x="451" y="471.35"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>: <tspan class="dots">........</tspan> <tspan class="value">55</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">8</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="dots">........</tspan> <tspan class="value">71</tspan></tspan>
+<tspan x="451" y="491.35"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>: <tspan class="dots">............</tspan> <tspan class="value">3,522</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">...........</tspan> <tspan class="value">122</tspan></tspan>
+<tspan x="451" y="511.35"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="dots">.........</tspan> <tspan class="value">180,763</tspan> ( <tspan class="add">271,443++</tspan>, <tspan class="del">90,680--</tspan> )</tspan>
 </text>
 </svg>

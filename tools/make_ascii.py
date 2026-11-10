@@ -12,14 +12,16 @@ SRC = ROOT / "assets" / "portrait.png"
 
 COLS = 46
 CELL_ASPECT = 0.5  # glyph width / line height, must match build_card's ART_LINE
-RAMP = " .'`^\",:;Il!i><~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"  # sparse to dense
-SHADOW = 0.28  # tones below this become blank, which is what keeps the art airy
-OUTLINE = 7  # ramp index drawn on subject cells that touch the backdrop
+RAMP = " `.',:\"r|c{TyoZPU6#8M0N"  # ordered by ink measured in Menlo, so density rises monotonically
+SHADOW = 0.35  # tones below this become blank, which is what keeps the art airy
+OUTLINE = 5  # ramp index drawn on subject cells that touch the backdrop
 BG_TOLERANCE = 14  # the backdrop is one flat colour, so this can stay tight
 BG_VOTE = 0.6  # share of a cell that must be backdrop to draw it blank
 MARK = (255, 0, 255)
+HEAD = (45, 32, 235, 290)  # hair to collar, ear to ear: the face needs most of the columns to read as a face
+FACE = (85, 75, 200, 225)  # brow to chin; tones are stretched over this so skin spans the whole ramp
 LOCAL_RADIUS = 6  # px on the source photo, about the size of an eye
-LOCAL_GAIN = 1.2
+LOCAL_GAIN = 0.6
 CLIP = 0.02  # ignore this share of the darkest and brightest subject cells when stretching
 GAMMA = 0.9
 
@@ -56,7 +58,7 @@ def subject_box(mask: Image.Image) -> tuple[int, int, int, int]:
 def convert() -> list[str]:
     img = Image.open(SRC).convert("RGB")
     full_mask = backdrop_mask(img)
-    bbox = subject_box(full_mask)
+    bbox = HEAD
     img = img.crop(bbox)
     rows = round(COLS * img.height / img.width * CELL_ASPECT)
     grey = local_contrast(img.convert("L")).resize((COLS, rows), Image.LANCZOS)
@@ -64,8 +66,10 @@ def convert() -> list[str]:
 
     cells = [(x, y) for y in range(rows) for x in range(COLS)]
     subject = {c: grey.getpixel(c) for c in cells if mask.getpixel(c) / 255 < BG_VOTE}
-    # Stretch over the subject alone, so the backdrop never claims part of the tonal range.
-    tones = sorted(subject.values())
+    # Stretch over the face alone; otherwise the white shirt and black hair squeeze skin into a few mid glyphs.
+    sx, sy = COLS / img.width, rows / img.height
+    fx0, fy0, fx1, fy1 = (FACE[0] - bbox[0]) * sx, (FACE[1] - bbox[1]) * sy, (FACE[2] - bbox[0]) * sx, (FACE[3] - bbox[1]) * sy
+    tones = sorted(v for (x, y), v in subject.items() if fx0 <= x < fx1 and fy0 <= y < fy1)
     lo, hi = tones[int(len(tones) * CLIP)], tones[int(len(tones) * (1 - CLIP))]
 
     top = len(RAMP) - 1
