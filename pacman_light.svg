@@ -10,7 +10,7 @@ text {white-space: pre;}
 </style>
 <defs><rect id="d" width="14" height="14" rx="3"/></defs>
 <rect width="100%" height="100%" rx="12" fill="#f6f8fa"/>
-<text x="15" y="29" font-size="14px" fill="#24292f"><tspan fill="#0a3069">2,024</tspan> contributions in the last year</text>
+<text x="15" y="29" font-size="14px" fill="#24292f"><tspan fill="#0a3069">2,025</tspan> contributions in the last year</text>
 <g font-size="12px" fill="#6e7781"><text x="51" y="55">Nov</text><text x="123" y="55">Dec</text><text x="195" y="55">Jan</text><text x="267" y="55">Feb</text><text x="339" y="55">Mar</text><text x="429" y="55">Apr</text><text x="501" y="55">May</text><text x="591" y="55">Jun</text><text x="663" y="55">Jul</text><text x="735" y="55">Aug</text><text x="825" y="55">Sep</text><text x="897" y="55">Oct</text><text x="969" y="55">Nov</text><text x="15" y="92.2">Mon</text><text x="15" y="128.2">Wed</text><text x="15" y="164.2">Fri</text>
 <text x="874.2" y="207" text-anchor="end">Less</text>
 <text x="972.2" y="207">More</text></g>
