@@ -16,7 +16,7 @@ HEIGHT = 52
 FONT = 17
 
 LINKS = (
-    ("portfolio", "raqib.codes", "key"),
+    ("portfolio", "website", "key"),
     ("linkedin", "linkedin", "value"),
     ("email", "email", "add"),
 )

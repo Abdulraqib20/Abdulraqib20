@@ -1,4 +1,4 @@
-"""Turn assets/portrait.png into one ASCII art file per theme. Run locally when the photo changes:
+"""Turn assets/portrait.png into assets/ascii.txt, which both themes draw. Run locally when the photo changes:
 uv run --with pillow tools/make_ascii.py"""
 
 from __future__ import annotations
@@ -10,16 +10,18 @@ from PIL import Image, ImageDraw, ImageFilter
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "assets" / "portrait.png"
 
-COLS = 76
+COLS = 46
 CELL_ASPECT = 0.5  # glyph width / line height, must match build_card's ART_LINE
-RAMP = " .:-=+*#%@"
+RAMP = " .'`^\",:;Il!i><~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"  # sparse to dense
+SHADOW = 0.28  # tones below this become blank, which is what keeps the art airy
+OUTLINE = 7  # ramp index drawn on subject cells that touch the backdrop
 BG_TOLERANCE = 14  # the backdrop is one flat colour, so this can stay tight
 BG_VOTE = 0.6  # share of a cell that must be backdrop to draw it blank
 MARK = (255, 0, 255)
 LOCAL_RADIUS = 6  # px on the source photo, about the size of an eye
-LOCAL_GAIN = 3.0
+LOCAL_GAIN = 1.2
 CLIP = 0.02  # ignore this share of the darkest and brightest subject cells when stretching
-GAMMA = 0.8
+GAMMA = 0.9
 
 
 def distance(a: tuple[int, ...], b: tuple[int, ...]) -> int:
@@ -51,7 +53,7 @@ def subject_box(mask: Image.Image) -> tuple[int, int, int, int]:
     return Image.eval(mask, lambda v: 255 - v).getbbox()
 
 
-def convert(invert: bool) -> list[str]:
+def convert() -> list[str]:
     img = Image.open(SRC).convert("RGB")
     full_mask = backdrop_mask(img)
     bbox = subject_box(full_mask)
@@ -75,18 +77,21 @@ def convert(invert: bool) -> list[str]:
                 out.append(" ")
                 continue
             level = min(1.0, max(0.0, (subject[(x, y)] - lo) / (hi - lo))) ** GAMMA
-            level = 1 - level if invert else level
-            out.append(RAMP[max(1, round(level * top))])  # never blank, so dark cloth keeps its outline
+            if level < SHADOW:
+                edge = any(0 <= x + dx < COLS and 0 <= y + dy < rows and (x + dx, y + dy) not in subject
+                           for dx, dy in ((1, 0), (-1, 0), (0, 1), (0, -1)))
+                out.append(RAMP[OUTLINE] if edge else " ")  # the outline keeps the head's shape where shadows go blank
+                continue
+            out.append(RAMP[round((level - SHADOW) / (1 - SHADOW) * top)])
         lines.append("".join(out).rstrip())
     return lines
 
 
 def main() -> None:
-    for name, invert in (("dark", False), ("light", True)):
-        art = convert(invert)
-        out = ROOT / "assets" / f"ascii-{name}.txt"
-        out.write_text("\n".join(art) + "\n", encoding="utf-8")
-        print(f"wrote {out.name}: {max(map(len, art))} cols x {len(art)} rows")
+    art = convert()
+    out = ROOT / "assets" / "ascii.txt"
+    out.write_text("\n".join(art) + "\n", encoding="utf-8")
+    print(f"wrote {out.name}: {max(map(len, art))} cols x {len(art)} rows")
 
 
 if __name__ == "__main__":

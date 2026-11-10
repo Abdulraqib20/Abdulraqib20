@@ -10,5 +10,5 @@ text, tspan {white-space: pre;}
 </style>
 <rect x="0.50" y="0.5" width="332.00" height="51" rx="10" fill="#161b22" stroke="#6e7681" stroke-opacity="0.45"/>
 <rect x="12.00" y="47" width="309.00" height="2" rx="1" fill="#ffa657"/>
-<text x="74.70" y="31.95" font-size="17px" fill="#c9d1d9"><tspan fill="#6e7681">$ </tspan><tspan x="95.10">open </tspan><tspan fill="#ffa657">raqib.codes</tspan></text>
+<text x="95.10" y="31.95" font-size="17px" fill="#c9d1d9"><tspan fill="#6e7681">$ </tspan><tspan x="115.50">open </tspan><tspan fill="#ffa657">website</tspan></text>
 </svg>

@@ -1,4 +1,4 @@
-"""Build the neofetch-style card (dark_mode.svg, light_mode.svg) from assets/ascii-*.txt and cache/stats.json.
+"""Build the neofetch-style card (dark_mode.svg, light_mode.svg) from assets/ascii.txt and cache/stats.json.
 Every row is padded to exactly PANEL_COLS characters, and a row that doesn't fit stops the build."""
 
 from __future__ import annotations
@@ -132,8 +132,8 @@ def stats() -> dict[str, str]:
     return {k: f"{raw[k]:,}" if isinstance(raw.get(k), int) else "--" for k in keys}
 
 
-def load_art(theme: str) -> list[str]:
-    lines = [l.rstrip() for l in (ROOT / "assets" / f"ascii-{theme}.txt").read_text().split("\n")]
+def load_art() -> list[str]:
+    lines = [l.rstrip() for l in (ROOT / "assets" / "ascii.txt").read_text().split("\n")]
     used = [i for i, l in enumerate(lines) if l.strip()]
     return lines[used[0]: used[-1] + 1]
 
@@ -156,7 +156,7 @@ def panel_rows() -> list[Row | None]:
 
 def build(theme: str) -> str:
     c = THEMES[theme]
-    art = load_art(theme)
+    art = load_art()
     art_font = ART_WIDTH / (max(map(len, art)) * ADVANCE)
     art_line = art_font * ART_LINE
     rows = panel_rows()
