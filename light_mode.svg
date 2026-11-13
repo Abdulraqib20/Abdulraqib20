@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 <text fill="#24292f" font-size="16px">
 <tspan x="451" y="71.35"><tspan class="title">abdulraqib@omotosho</tspan> -————————————————————————————————————-</tspan>
 <tspan x="451" y="91.35"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>: <tspan class="dots">......................................</tspan> <tspan class="value">macOS, Ubuntu</tspan></tspan>
-<tspan x="451" y="111.35"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="dots">.....................</tspan> <tspan class="value">4 years, 0 months, 30 days</tspan></tspan>
+<tspan x="451" y="111.35"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="dots">.......................</tspan> <tspan class="value">4 years, 1 month, 0 days</tspan></tspan>
 <tspan x="451" y="131.35"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>: <tspan class="dots">...........................</tspan> <tspan class="value">Bujeti (YC W23), Lagos</tspan></tspan>
 <tspan x="451" y="151.35"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="dots">............................</tspan> <tspan class="value">Applied AI Engineer</tspan></tspan>
 <tspan x="451" y="171.35"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>: <tspan class="dots">......................</tspan> <tspan class="value">VS Code, Cursor, Claude Code</tspan></tspan>
@@ -68,7 +68,7 @@ text, tspan {white-space: pre;}
 <tspan x="451" y="411.35"><tspan class="dots">. </tspan><tspan class="key">Portfolio</tspan>: <tspan class="dots">.................................</tspan> <tspan class="value">raqib.codes</tspan></tspan>
 <tspan x="451" y="431.35" class="dots">.</tspan>
 <tspan x="451" y="451.35">- GitHub Stats -—————————————————————————————————————————-</tspan>
-<tspan x="451" y="471.35"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>: <tspan class="dots">........</tspan> <tspan class="value">55</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">8</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="dots">........</tspan> <tspan class="value">71</tspan></tspan>
+<tspan x="451" y="471.35"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>: <tspan class="dots">........</tspan> <tspan class="value">55</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">7</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="dots">........</tspan> <tspan class="value">71</tspan></tspan>
 <tspan x="451" y="491.35"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>: <tspan class="dots">............</tspan> <tspan class="value">3,528</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">...........</tspan> <tspan class="value">122</tspan></tspan>
 <tspan x="451" y="511.35"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="dots">.........</tspan> <tspan class="value">180,789</tspan> ( <tspan class="add">271,593++</tspan>, <tspan class="del">90,804--</tspan> )</tspan>
 </text>
